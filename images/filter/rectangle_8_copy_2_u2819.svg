@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="152px" height="50px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip3218">
+      <path d="M 0 8  C 0 3.58172200000001  3.58172200000001 0  8 0  L 144 0  C 148.418278 0  152 3.58172200000001  152 8  L 152 42  C 152 46.418278  148.418278 50  144 50  L 8 50  C 3.58172200000001 50  0 46.418278  0 42  L 0 8  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -198 -405 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="152" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJgAAAAyCAYAAACgRRKpAAAAAXNSR0IArs4c6QAAAx5JREFUeAHtnV+K01AUxps0nb4E2gUUV6DgDkSo4kLU8Ulcivg0dVyI6IC4A0FX4LiAFvJS26Z+3505IVOnDw05T+e7kDm5f3JCf/w4EzpDbjY4aFVVPdpsNq/3+/0cU7Msy8qDJeqKQEMAnlTo/IEnV6PR6GNZlj+bSZxk1sHCs9Vq9QHxFcZyG1cUgRMI1BDtcjKZvEX8y+uSYJRruVx+Qf+JJcvzfIBFqWvR5hRFgATgTQLBWNd1G8r36XT6nJIlgyDXBRadc0VRFOmgYGySK2HQjyMETDIKtt1u08Gl8GYByd5kt89cPzCWj8fjwXA4TFJRrLZc7fMj99JwEAImlX1c9u3Y7XaD9XrNqRrPZI8LPtCj08jFyqXqZegU7yNwWGxMOPs1yUIFyXK6VWByDtNS5TK5DqvXfTfRmAgYAfpCyawwcZyPWhBszgetGTtcxAWSy7ApnkLAvDGH6BTaLMczV2mDHOFCNRHoQsDcYaRTya32oJ13Sa5rRIAE6JB5xJi+i7ABIRKBvgiYU7md9JVYeUTACDQVzAYURaBvAs3fHFXJ+kYbN1/bpUawuDj0yT0JSDBPusqtf8uRA74EVMF8+YbPLsHCK+ALQIL58g2fXYKFV8AXgATz5Rs+uwQLr4AvAAnmyzd8dgkWXgFfABLMl2/47BIsvAK+ACSYL9/w2SVYeAV8AUgwX77hs0uw8Ar4ApBgvnzDZ5dg4RXwBSDBfPmGzy7BwivgC0CC+fINn12ChVfAF4AE8+UbPrsEC6+ALwAJ5ss3fHYJFl4BXwCNYPaeTd/bKXs0AjnE4k4NaiLQGwErVnSLFey6t8xKJAJ3CVzzBXRXZtzdOfVEoDsBOkW3KNgl0tQckGjdgerKGwItj9K+RTl3x8IL9Bcml0UBE4FTCZg7jHSKbjWbYWFnhs947fRTe6V5+y11p95I6+MRoFS3Yg2wncw37PbxAg7dbIZFHJg8g2TvIdk5JEtfX0iyeKJ0+cQUiw1Vq4ZcC8j1jnJx7L9dFyDZQ0y+xNwzePYAURuSkpTaMQIVvPqNya8Q7RPk+tVe+A8FcOoXlHiG6gAAAABJRU5ErkJggg==" x="0px" y="0px" transform="matrix(1 0 0 1 198 405 )" />
+    <path d="M 0 8  C 0 3.58172200000001  3.58172200000001 0  8 0  L 144 0  C 148.418278 0  152 3.58172200000001  152 8  L 152 42  C 152 46.418278  148.418278 50  144 50  L 8 50  C 3.58172200000001 50  0 46.418278  0 42  L 0 8  Z " stroke-width="2" stroke="#282b2e" fill="none" stroke-opacity="0.247058823529412" transform="matrix(1 0 0 1 198 405 )" mask="url(#clip3218)" />
+  </g>
+</svg>
